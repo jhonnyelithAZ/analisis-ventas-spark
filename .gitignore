@@ -1,0 +1,17 @@
+# Entornos virtuales
+venv/
+env/
+.env
+
+# Archivos temporales de instalación que creamos
+temp_pip/
+
+# Archivos de caché de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos generados por Spark/Java
+*.class
+*.jar
+.spark-staging
